@@ -40,7 +40,8 @@ The next commit makes it run again:
 - **Missing.** Every other image shows its file name instead.
 - **Archive changes.** The robots meta tag is changed to `noindex, nofollow`, a `robots.txt`
   disallows everything, and the contact form shows a note instead of sending. The site had no
-  analytics.
+  analytics. The home page's "Ai Se Eu Te Pego" link pointed to a video file on the site
+  (`nossa.webm`, never archived); it now opens the song on YouTube in a new tab.
 
 ## Missing files
 
@@ -51,7 +52,7 @@ already point there.
 - `images/328096_10150317549801239_707426238_8126898_779264704_o.jpg` (a photo on the "Nevcan
   Hakkında" page)
 - `images/logos/movescount_logo.png`
-- `nossa.webm` (the "Ai Se Eu Te Pego" video linked on the home page)
+- `nossa.webm` (the "Ai Se Eu Te Pego" video; the link now goes to YouTube instead)
 
 ## Stack
 
